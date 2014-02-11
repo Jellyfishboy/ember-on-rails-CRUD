@@ -1,4 +1,4 @@
-sngtrkr-ember
+ember-on-rails-CRUD
 =============
 
-SNGTRKR platform built using Rails API and Ember.js
+Simple CRUD application with Ember JS front-end and Rails back-end API.
