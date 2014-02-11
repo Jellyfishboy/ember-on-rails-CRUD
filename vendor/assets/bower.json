@@ -1,0 +1,9 @@
+{
+  "name": "dsl-generated dependencies",
+  "dependencies": {
+    "jquery": "2.0",
+    "modernizr": "latest",
+    "bootstrap": "2.0.3",
+    "normalize-css": "latest"
+  }
+}

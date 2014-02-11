@@ -1,0 +1,7 @@
+group :vendor do
+  asset "jquery", "2.0"
+  asset "modernizr"
+
+  asset "bootstrap", "2.0.3"
+  asset "normalize-css"
+end
